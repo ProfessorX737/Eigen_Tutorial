@@ -27,9 +27,6 @@ int main()
     // fixed sizes becomes negligible. Also if a fixed-sized
     // matrix is allocated a local variable which is done on
     // the stack this could lead to stack overflow
-    
-    
-    
-    
+
     return 0;
 }

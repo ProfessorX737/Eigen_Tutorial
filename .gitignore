@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!Eigen_Tutorial/
+!*.cpp
+!*.hpp
+!*.c
+!*.h
